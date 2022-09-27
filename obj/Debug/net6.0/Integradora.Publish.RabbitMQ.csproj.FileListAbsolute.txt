@@ -1,0 +1,169 @@
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\appsettings.json
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.exe
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.deps.json
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.runtimeconfig.json
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.pdb
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.AssemblyInfo.cs
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.csproj.CopyComplete
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\obj\Debug\net6.0\refint\Integradora.Publish.RabbitMQ.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.pdb
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.genruntimeconfig.cache
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ\obj\Debug\net6.0\ref\Integradora.Publish.RabbitMQ.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\appsettings.json
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.exe
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.deps.json
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.runtimeconfig.json
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.pdb
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.csproj.CopyComplete
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\refint\Integradora.Publish.RabbitMQ.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.pdb
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.genruntimeconfig.cache
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\ref\Integradora.Publish.RabbitMQ.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\denis\OneDrive\Documentos\BRUNSKER\02 PROJETOS BRUNSKER\Projeto RabbitMQ\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\appsettings.json
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.exe
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.deps.json
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.runtimeconfig.json
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Integradora.Publish.RabbitMQ.pdb
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.AssemblyInfo.cs
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.csproj.CopyComplete
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\refint\Integradora.Publish.RabbitMQ.dll
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.pdb
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\Integradora.Publish.RabbitMQ.genruntimeconfig.cache
+C:\Users\BRUNSKER\Documents\01 PROJETOS BRUNSKER\02 PROJETOS INTEGRADORA\INTEGRADORA RABBITMQ PUBLISH\Brunsker.Integradora.RabbitMQ-master\obj\Debug\net6.0\ref\Integradora.Publish.RabbitMQ.dll
